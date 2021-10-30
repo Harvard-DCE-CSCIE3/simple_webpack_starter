@@ -1,0 +1,10 @@
+@font-face {
+    font-family: OpenSans;
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+body {
+    min-height: 100vh;
+    background: rgb(94, 0, 58);
+    color: white;
+}
